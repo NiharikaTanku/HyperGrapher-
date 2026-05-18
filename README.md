@@ -1,5 +1,1 @@
-Developed a Web-based data visualization tool that converts user input into bar, pie and line charts.
-
-Automated the process of transforming raw data into meaningful visualizations to support easier decision-making.
-
-Enhanced user experience by providing multiple chart options and clean, easy-to-understand outputs.
+Built a full-stack data visualization web application using Java, MySQL, JDBC, HTML, CSS, JavaScript, and Chart.js that transforms user-entered tabular data into 7 interactive chart formats including Bar, Pie, Radar, and Scatter charts. Implemented secure user authentication, real-time validation, dynamic chart rendering, and PNG export functionality while following MVC architecture, reducing manual chart creation effort for 50+ test users.
